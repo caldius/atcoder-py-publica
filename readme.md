@@ -1,4 +1,4 @@
-TODO: make .md File
+NOTE: 公開用に別リポジトリ用意
 
 # 環境構築っぽい話
 
