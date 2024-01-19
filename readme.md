@@ -1,6 +1,13 @@
 NOTE: 公開用に別リポジトリ用意
 
-# 環境構築っぽい話
+↓の画像で緑色になっている問題はコンテスト中にAC(=正解)したものです
+<img width="805" alt="acp_top20240119" src="https://github.com/caldius/atcoder-py-publica/assets/105998552/d0d4fba9-254c-4cd7-acde-94aede192192">
+
+コンテスト、問題文は⇒https://atcoder.jp/contests/archive?ratedType=1&category=0&keyword=
+
+
+
+# 環境構築関連↓
 
 ## 仮想環境作成
 
